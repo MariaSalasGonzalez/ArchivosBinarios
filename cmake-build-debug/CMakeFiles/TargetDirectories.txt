@@ -1,0 +1,3 @@
+/Users/aligonzalez/CLionProjects/Archivo_Binarios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aligonzalez/CLionProjects/Archivo_Binarios/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aligonzalez/CLionProjects/Archivo_Binarios/cmake-build-debug/CMakeFiles/Archivo_Binarios.dir
